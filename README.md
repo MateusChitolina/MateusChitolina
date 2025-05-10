@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou Mateus Chitolina
 ### 💻 Desenvolvedor Fullstack | Java | Spring Boot | React | React Native
 
 🚀 Fullstack Developer | Construindo soluções escaláveis com Java (Spring Boot), React/React Native, e PostgreSQL. Entusiasta de clean code, produtividade dev e sistemas bem arquitetados.
