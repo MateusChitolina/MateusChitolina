@@ -4,8 +4,8 @@
 🚀 Fullstack Developer | Construindo soluções escaláveis com Java (Spring Boot), React/React Native, e PostgreSQL. Entusiasta de clean code, produtividade dev e sistemas bem arquitetados.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MateusChitolina&theme=tokyonight&hide_border=true" width="500"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusChitolina&layout=compact&theme=tokyonight" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusChitolina&layout=compact&theme=dracula&hide_border=true" width="500"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusChitolina&theme=dracula" width="100%">
 </p>
 
 <div align="center" width="100%"> 
