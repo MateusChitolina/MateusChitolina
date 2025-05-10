@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mateus Chitolina
+### 💻 Desenvolvedor Fullstack | Java | Spring Boot | React | React Native
 
-<!--
-**MateusChitolina/MateusChitolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer | Construindo soluções escaláveis com Java (Spring Boot), React/React Native, e PostgreSQL. Entusiasta de clean code, produtividade dev e sistemas bem arquitetados.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MateusChitolina&theme=tokyonight&hide_border=true" width="500"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusChitolina&layout=compact&theme=tokyonight" width="500">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" width="100%"> 
+  <a href="https://www.instagram.com/mateus_chito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateus.ex.chitolina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-chitolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
